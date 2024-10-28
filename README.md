@@ -86,6 +86,18 @@ Key insights from the project:
 - **GitHub**: For version control and collaboration.
 
 ## File Structure
+## How to Use the Files
+
+- **SQL Scripts**: Use the SQL scripts in your preferred SQL environment to clean and analyze the data.
+  - [Cleaning Queries](SQL_Scripts/cleaning_queries.sql)
+  - [Analysis Queries](SQL_Scripts/analysis_queries.sql)
+
+- **Power BI Files**: Open the visualizations folder to review the visualizations created during the analysis.
+  - [Price by Grade Visualization](Visualizations/price_by_grade.png)
+  - [Bedrooms by Price Visualization](Visualizations/bedrooms_vs_price.png)
+
+- **Data**: You can find the dataset used for analysis here:
+  - [House Data CSV](Data/house_data.csv)
 
 
 ## Steps to Run the Analysis
