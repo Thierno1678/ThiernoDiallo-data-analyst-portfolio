@@ -89,8 +89,11 @@ Key insights from the project:
 ## How to Use the Files
 
 - **SQL Scripts**: Use the SQL scripts in your preferred SQL environment to clean and analyze the data.
-  - [Cleaning Queries](SQL_Scripts/cleaning_queries.sql)
+  - ([Cleaning Queries](SQL_Scripts/cleaning_queries.sql)
+
+
   - [Analysis Queries](SQL_Scripts/analysis_queries.sql)
+
 
 - **Power BI Files**: Open the visualizations folder to review the visualizations created during the analysis.
   - [Price by Grade Visualization](Visualizations/price_by_grade.png)
